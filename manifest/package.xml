@@ -3,6 +3,8 @@
 	<types>
 		<members>EOYSalesCommissionHandler</members>
 		<members>EoYSalesCommissionCalculation</members>
+		<members>MC_UserDetailsController</members>
+		<members>MarginCalculationByInvoiceDetailHelper</members>
 		<members>MonthlyBreakdownSelector</members>
 		<members>MonthlyCommissionSelector</members>
 		<members>MyCommissionController</members>
@@ -10,6 +12,7 @@
 	</types>
 	<types>
 		<members>MC_Commissions</members>
+		<members>MC_UserDetails</members>
 		<name>AuraDefinitionBundle</name>
 	</types>
 	<version>55.0</version>
